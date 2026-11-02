@@ -1,0 +1,7 @@
+{
+  "name": "smart-parking-slot-finder",
+  "private": true,
+  "scripts": {
+    "dev": "node scripts/dev.mjs"
+  }
+}
